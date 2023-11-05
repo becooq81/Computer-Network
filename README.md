@@ -1,4 +1,4 @@
-# Computer-Network
+# Socket-Producer-Consumer
 
 This is a simple socket programming project in Python. 
 
